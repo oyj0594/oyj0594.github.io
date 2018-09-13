@@ -1,13 +1,13 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
+title:             Youngjune Oh
+email:             youngjune@popeye.snu.ac.kr
+description:       Profile
+author:            Youngjune Oh
 baseurl:           "/"
-url:               "http://blackrockdigital.github.io"
+url:               "https://oyj0594.github.io"
 
 # Social Profiles
 twitter_username:  SBootstrap
-github_username:   BlackrockDigital
+github_username:   oyj0594
 facebook_username: StartBootstrap
 
 # Build settings
