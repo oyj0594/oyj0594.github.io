@@ -5,10 +5,7 @@ author:            Youngjune Oh
 baseurl:           "/"
 url:               "https://oyj0594.github.io"
 
-# Social Profiles
-twitter_username:  SBootstrap
-github_username:   oyj0594
-facebook_username: StartBootstrap
+
 
 # Build settings
 markdown:          kramdown
